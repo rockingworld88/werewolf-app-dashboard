@@ -1,0 +1,3 @@
+-- Admin dashboard notes
+-- This dashboard expects the rider app schema to exist.
+-- Ensure profiles includes login_email and role fields and that chat_messages/media storage remain admin-manageable.
